@@ -9,4 +9,5 @@ ini adalah tampilannya
 
 ini adalaha codingan dan output dari praktikum ke 4
 
-<a img src="C:\Github\123pertama.png">
+<img src="C:\Github\Web1Lab1\picture\123pertama.png" width="200"
+alt="">
